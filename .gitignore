@@ -1,3 +1,6 @@
+cadence_sensor_v2.h
+cadence_sensor_v2.c
+
 # Prerequisites
 *.d
 
